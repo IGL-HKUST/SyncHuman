@@ -15,7 +15,7 @@
 <sup>1</sup> Peking University
 <sup>2</sup> The Hong Kong University of Science and Technology 
 <sup>3</sup> Southeast University
-<sup>4</sup> Massachusetts Institute of Technology
+<sup>4</sup> The University of Hong Kong
 
 </div>
 

@@ -101,8 +101,8 @@ If you find this work useful, please cite our paper:
 
 ```bibtex
 @article{chen2025synchuman,
-  title={SyncHuman: Synchronizing 2D and 3D Diffusion Models for Single-view Human Reconstruction},
-  author={Wenyue Chen, Peng Li, Wangguandong Zheng, Chengfeng Zhao, Mengfei Li, Yaolong Zhu, Zhiyang Dou, Ronggang Wang, Yuan Liu},
+  title={SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction},
+  author={Chen, Wenyue and Li, Peng and Zheng, Wangguandong and Zhao, Chengfeng and Li, Mengfei and Zhu, Yaolong and Dou, Zhiyang and Wang, Ronggang and Liu, Yuan},
   journal={arXiv preprint arXiv:2510.07723},
   year={2025}
 }
